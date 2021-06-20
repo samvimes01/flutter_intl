@@ -1,0 +1,17 @@
+{
+  "@@locale": "ru-RU",
+  "LOGIN_BUTTON": "Войти",
+  "@LOGIN_BUTTON": {},
+  "LOGIN_LOST": "Забыли пароль?",
+  "@LOGIN_LOST": {},
+  "LOGIN_OTHER_LOGINS": "Или",
+  "@LOGIN_OTHER_LOGINS": {},
+  "LOGIN_PASSWORD": "Пароль",
+  "@LOGIN_PASSWORD": {},
+  "LOGIN_SSO_BUTTON": "Войти с помощью SAML SSO",
+  "@LOGIN_SSO_BUTTON": {},
+  "LOGIN_TITLE": "Добро пожаловать в SimpliField!",
+  "@LOGIN_TITLE": {},
+  "LOGIN_USERNAME": "Эл. почта",
+  "@LOGIN_USERNAME": {}
+}
