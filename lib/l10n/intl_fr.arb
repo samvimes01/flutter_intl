@@ -1,0 +1,17 @@
+{
+  "@@locale": "fr-FR",
+  "LOGIN_BUTTON": "Continuer",
+  "@LOGIN_BUTTON": {},
+  "LOGIN_LOST": "Mot de passe oublié ?",
+  "@LOGIN_LOST": {},
+  "LOGIN_OTHER_LOGINS": "Ou",
+  "@LOGIN_OTHER_LOGINS": {},
+  "LOGIN_PASSWORD": "Mot de passe",
+  "@LOGIN_PASSWORD": {},
+  "LOGIN_SSO_BUTTON": "Connexion avec SAML SSO",
+  "@LOGIN_SSO_BUTTON": {},
+  "LOGIN_TITLE": "Bienvenue sur SimpliField",
+  "@LOGIN_TITLE": {},
+  "LOGIN_USERNAME": "Email",
+  "@LOGIN_USERNAME": {}
+}
